@@ -667,7 +667,7 @@ button.main-button:hover {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url(../imagens/background.png);
+  background-image: url(background.png);
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
